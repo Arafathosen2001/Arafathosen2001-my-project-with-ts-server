@@ -1,0 +1,7 @@
+{
+    "watch": [
+        "index.ts"
+    ],
+    "ext": "ts,json",
+    "exec": "node --import ts-node/register index.ts"
+}
